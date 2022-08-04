@@ -1,0 +1,24 @@
+package com.lambda;
+
+@FunctionalInterface
+interface MyInterface{
+	
+	//abstract method
+	int Print(int num);
+	
+}
+public class MyLambda 
+{
+
+	public static void main(String[] args) {
+		
+		//lambda expression
+		MyInterface ref = (num) -> {
+			if(num%2 == 0) {System.out.println("even number");
+		};
+		
+		ref.Print(10);
+	};
+
+}
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.globallogic.com.Array&apos; to &apos;LinearSearch&apos;&#x0D;&#x0A;- Original project: &apos;DataStructure&apos;&#x0D;&#x0A;- Original element: &apos;com.globallogic.com.Array&apos;&#x0D;&#x0A;- Renamed element: &apos;com.globallogic.com.LinearSearch&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Array&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.globallogic.com{Array.java[Array" matchStrategy="1" name="LinearSearch" qualified="false" references="true" similarDeclarations="false" stamp="1658998744763" textual="false" version="1.0"/>
+</session>

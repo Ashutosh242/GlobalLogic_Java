@@ -1,0 +1,10 @@
+package com.globallogic.com;
+import java.util.PriorityQueue;
+
+public class MyQueue {
+	public static void main(String[] args) {
+		PriorityQueue<Integer> q = new PriorityQueue<Integer>();
+		
+	}
+
+}

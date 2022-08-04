@@ -1,0 +1,15 @@
+List: 
+It will maintain the insertion order.
+List can hold multiple null value
+
+Set:  
+it will not maintain the insertion order.
+Set can hold single null value.
+hash-set does not maintain the order
+Linked set maintain the insertion order.
+tree set is sorted set and will not allow the duplicate.
+collection reverse.order()
+
+
+Question:
+Create A set with all the implementation with user defined class employee and perform the insert delete and searching and sorting.

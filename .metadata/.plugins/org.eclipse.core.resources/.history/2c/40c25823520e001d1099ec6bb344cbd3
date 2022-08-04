@@ -1,0 +1,11 @@
+package com.globallogic.com;
+
+import java.util.ArrayList;
+
+public class BinarySearch {
+
+	public static void main(String[] args) {
+		ArrayList<Integer> arr = new ArrayList<Integer>();
+	}
+
+}

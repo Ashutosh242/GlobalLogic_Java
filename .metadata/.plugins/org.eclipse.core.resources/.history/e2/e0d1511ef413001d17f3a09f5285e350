@@ -1,0 +1,38 @@
+package com.globallogic.com;
+
+//generic class in java.
+class student<X,Y,Z,P>
+{
+	X id;
+	Y First_name;
+	Z Last_name;
+	P age;
+	
+	public student(X id , Y First_name , Z Last_name , P age)
+	{
+		this.id = id;
+		this.First_name  = First_name;
+		this.Last_name = Last_name;
+		this.age = age;
+	}
+	public void print()
+	{
+		System.out.println("ID :"+ this.id);
+		System.out.println("FirstName :"+ this.First_name);
+		System.out.println("LastName :"+ this.Last_name);
+		System.out.println("Age :"+ this.age);
+	}
+}
+public class ArrayList {
+	public static void main(String[] args) {
+		student<Integer , String , String , Integer> s1 = new student<Integer , String , String , Integer>(212 , "Ashutosh" , "Sharma" , 21);
+		s1.print();
+		 
+		
+		
+	}
+
+	
+	
+
+}

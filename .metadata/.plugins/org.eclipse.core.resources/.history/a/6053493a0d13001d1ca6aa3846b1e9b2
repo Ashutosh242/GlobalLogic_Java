@@ -1,0 +1,6 @@
+package com.ashutosh;
+
+import javax.servlet.http.HttpServlet;
+public class AddServlet extends HttpServlet {
+
+}
